@@ -10,10 +10,6 @@ In the classic game, each participant must, in turn, turn over two cards. If the
 
 The memory game of the project follows this same principle, however, when the client clicks on the cards, it will be the server who will turn them over and make the comparison regarding the equality or discrepancy of the two, leaving the figures fixed on the screen when the same or when different, turning them again.
 
-### See the project in action
-
-![Project in practice](https://github.com/LayzaDev/MemoryGame-DesignChallenge/blob/main/memory-game.mp4)
-
 ## **Technologies**
 
 ### **JavaScript**
