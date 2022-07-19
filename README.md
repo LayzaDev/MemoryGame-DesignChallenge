@@ -12,7 +12,7 @@ The memory game of the project follows this same principle, however, when the cl
 
 ### See the project in action
 
-![Project in practice](https://www.youtube.com/watch?v=SRmHyZytx8M)
+![Project in practice](https://github.com/LayzaDev/MemoryGame-DesignChallenge/blob/main/memory-game.mp4)
 
 ## **Technologies**
 
