@@ -2,7 +2,7 @@
 
 In this project, the challenge was to create a memory game using only HTML, CSS and Javascript.
 
-[Technologies]()
+[Technologies](https://raw.githubusercontent.com/LayzaDev/MemoryGame-DesignChallenge/main/img/tecnologies.png)
 
 ## **Functionality**
 
