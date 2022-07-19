@@ -37,7 +37,7 @@ The memory game of the project follows this same principle, however, when the cl
 
 ### _Project_
 
-[Memory Game]()
+[Memory Game](https://layzadev.github.io/MemoryGame-DesignChallenge/)
 
 ### _Social Networks_
 
