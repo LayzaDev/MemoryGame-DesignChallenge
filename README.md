@@ -10,7 +10,10 @@ In the classic game, each participant must, in turn, turn over two cards. If the
 
 The memory game of the project follows this same principle, however, when the client clicks on the cards, it will be the server who will turn them over and make the comparison regarding the equality or discrepancy of the two, leaving the figures fixed on the screen when the same or when different, turning them again.
 
-![Project in practice](https://youtu.be/SRmHyZytx8M)
+### See the project in action
+
+![Project in practice](https://www.youtube.com/watch?v=SRmHyZytx8M)
+
 ## **Technologies**
 
 ### **JavaScript**
