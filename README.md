@@ -42,6 +42,7 @@ The memory game of the project follows this same principle, however, when the cl
 ### _Social Networks_
 
 [Linkedin](https://www.linkedin.com/in/layza-nauane-dev12/)
+
 [Instagram](https://www.instagram.com/layza.nauane/)
 
 ### _Credits_
